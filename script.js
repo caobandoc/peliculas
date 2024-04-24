@@ -18,14 +18,10 @@ function listarPeliculas() {
 }
 
 function listarPeliculasJson() {
-    // archivo en ./example.json
-    // dar un retardo de 5 segundos
-    setTimeout(() => {
-        fetch("./example.json")
-            .then((response) => response.json())
-            .then((response) => cargarPeliculasEnHTML(response.results))
-            .catch((err) => console.error(err));
-    }, 3000);
+    fetch("./example.json")
+        .then((response) => response.json())
+        .then((response) => cargarPeliculasEnHTML(response.results))
+        .catch((err) => console.error(err));
 }
 
 function cargarPeliculasEnHTML(lista) {

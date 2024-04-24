@@ -57,7 +57,6 @@
 }
 
 .card-img-top {
-    width: 286px;
-    height: 286px;
-    object-fit: cover;
+    height: 400px;
+    object-fit: contain;
 }
