@@ -1,0 +1,408 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12,
+        14
+      ],
+      "id": 823464,
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+      "popularity": 2213.825,
+      "poster_path": "/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla y Kong: El nuevo imperio",
+      "video": false,
+      "vote_average": 6.665,
+      "vote_count": 713
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
+      "popularity": 2101.535,
+      "poster_path": "/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
+      "release_date": "2024-02-27",
+      "title": "Duna: Parte dos",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 3260
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+      "genre_ids": [
+        16,
+        28,
+        10751,
+        35,
+        14
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po se está preparando para convertirse en el líder espiritual de su Valle de la Paz, pero también necesita a alguien que ocupe su lugar como Guerrero Dragón. Como tal, entrenará a un nuevo practicante de kung fu para el lugar y se encontrará con un villano llamado Camaleón que evoca villanos del pasado.",
+      "popularity": 1811.637,
+      "poster_path": "/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.158,
+      "vote_count": 1221
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 1096197,
+      "original_language": "en",
+      "original_title": "No Way Up",
+      "overview": "Un grupo de vacacionistas se ve unido por el destino cuando el avión en el que viajan se desploma en el mar a causa de la explosión de una turbina al impactar en el aire contra una parvada. La tragedia se torna aún más aterradora cuando, el avion queda suspendido en un peligroso risco submarino. Con el oxígeno disminuyendo rápidamente, los sobrevivientes se ven atrapados en una carrera contrarreloj por la vida, enfrentándose a peligros mortales mientras luchan por mantenerse a flote dentro de una reducida burbuja de aire. La amenaza más aterradora aún está por llegar: hambrientos tiburones rodean el avión, convirtiendo la lucha por sobrevivir en una pesadilla en lo profundo del mar. Cada decisión que tomen determinará quién vive y quién muere.",
+      "popularity": 1712.647,
+      "poster_path": "/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+      "release_date": "2024-01-18",
+      "title": "Atrapados En Lo Profundo",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1105407,
+      "original_language": "en",
+      "original_title": "Damaged",
+      "overview": "",
+      "popularity": 1127.177,
+      "poster_path": "/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+      "release_date": "2024-04-12",
+      "title": "Damaged",
+      "video": false,
+      "vote_average": 5.589,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/unCdljyU2FuUBDUcdZezeI9yaaj.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        53,
+        28
+      ],
+      "id": 720321,
+      "original_language": "en",
+      "original_title": "Breathe",
+      "overview": "Un hombre que sufre de insomnio se ve envuelto en una serie de misteriosos asesinatos mientras lucha por mantener su cordura y proteger a su hermana de un asesino en serie.",
+      "popularity": 886.367,
+      "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+      "release_date": "2024-04-04",
+      "title": "Breathe",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qnVm19Vu2Sc14LoEj82pmqAYr3p.jpg",
+      "genre_ids": [
+        12,
+        28,
+        18
+      ],
+      "id": 845111,
+      "original_language": "fr",
+      "original_title": "Les trois mousquetaires : Milady",
+      "overview": "Constance Bonacieux es secuestrada enfrente de D'Artagnan. El joven espadachín une fuerzas con los expertos soldados Athos, Portos y Aramis para, en compañía de la enigmática Milady de Winter, salvar a Constance.",
+      "popularity": 878.62,
+      "poster_path": "/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg",
+      "release_date": "2023-12-13",
+      "title": "Los Tres Mosqueteros 2: Milady",
+      "video": false,
+      "vote_average": 6.598,
+      "vote_count": 310
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
+      "genre_ids": [
+        878,
+        28,
+        14,
+        12
+      ],
+      "id": 601796,
+      "original_language": "ko",
+      "original_title": "외계+인 1부",
+      "overview": "La puerta del tiempo se abre entre los espadachines que quieren apoderarse de la legendaria espada divina al final de la Dinastía Goryeo y los que persiguen a un alienígena prisionero encarcelado en un cuerpo humano en 2022.",
+      "popularity": 854.88,
+      "poster_path": "/dwh2pqqWobsOmnDFsJkiLRLBQ94.jpg",
+      "release_date": "2022-07-20",
+      "title": "Alienoid Parte 1",
+      "video": false,
+      "vote_average": 6.915,
+      "vote_count": 281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 359410,
+      "original_language": "en",
+      "original_title": "Road House",
+      "overview": "El ex luchador de la UFC, Dalton, acepta un trabajo como guardia en un bar sobre la carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece.",
+      "popularity": 848.609,
+      "poster_path": "/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
+      "release_date": "2024-03-08",
+      "title": "El duro",
+      "video": false,
+      "vote_average": 7.05,
+      "vote_count": 1534
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 940551,
+      "original_language": "en",
+      "original_title": "Migration",
+      "overview": "Después de que una familia de patos migratorios aterriza en su estanque con emocionantes historias de lugares remotos, la familia Mallard embarca en un viaje familiar, atravezando la ciudad de Nueva York, con destino a la tropical Jamaica.",
+      "popularity": 815.938,
+      "poster_path": "/diEeiB2DmZZadHISkg24RO2n0rT.jpg",
+      "release_date": "2023-12-06",
+      "title": "¡Patos!",
+      "video": false,
+      "vote_average": 7.546,
+      "vote_count": 1219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/FUnAVgaTs5xZWXcVzPJNxd9qGA.jpg",
+      "genre_ids": [
+        878,
+        28,
+        18,
+        10770
+      ],
+      "id": 934632,
+      "original_language": "en",
+      "original_title": "Rebel Moon - Part Two: The Scargiver",
+      "overview": "Mientras los rebeldes se preparan para la batalla contra el Mundo Madre, se forjan vínculos inquebrantables, emergen héroes... y nacen leyendas.",
+      "popularity": 804.055,
+      "poster_path": "/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
+      "release_date": "2024-04-19",
+      "title": "Rebel Moon - Parte Dos: La Guerrera que Deja Marcas",
+      "video": false,
+      "vote_average": 6.241,
+      "vote_count": 342
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+      "genre_ids": [
+        28,
+        14
+      ],
+      "id": 634492,
+      "original_language": "en",
+      "original_title": "Madame Web",
+      "overview": "Después de sobrevivir a un accidente, la paramédica Cassandra Webb comienza a desenvolver sus habilidades clarividentes. Obligada a enfrentar revelaciones sobre su pasado, forja una relación con tres mujeres jóvenes destinadas a futuros poderosos... si todas pueden sobrevivir a un presente mortal.",
+      "popularity": 706.004,
+      "poster_path": "/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+      "release_date": "2024-02-14",
+      "title": "Madame Web",
+      "video": false,
+      "vote_average": 5.621,
+      "vote_count": 1124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pIFGZRCWjdQwECoXcphCCe1tl0B.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 1041613,
+      "original_language": "en",
+      "original_title": "Immaculate",
+      "overview": "A Cecilia, una mujer de fe devota, se le ofrece un nuevo y satisfactorio puesto en un ilustre convento italiano. Su cálida bienvenida a la pintoresca campiña italiana pronto se ve interrumpida cuando Cecilia descubre que su nuevo hogar esconde algunos secretos oscuros y horripilantes.",
+      "popularity": 705.298,
+      "poster_path": "/dFxjlcejJxSusT82UZl6QfVOgBA.jpg",
+      "release_date": "2024-03-20",
+      "title": "Inmaculada",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16
+      ],
+      "id": 1239146,
+      "original_language": "en",
+      "original_title": "Woody Woodpecker Goes to Camp",
+      "overview": "Tras ser echado del bosque, el Pájaro Loco encuentra un maravilloso hogar: el Campamento Woo Hoo. Pero la alegría se acaba cuando un inspector amenaza con clausurarlo...",
+      "popularity": 698.959,
+      "poster_path": "/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
+      "release_date": "2024-04-12",
+      "title": "El Pájaro Loco se va de campamento",
+      "video": false,
+      "vote_average": 7.014,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uv2twFGMk2qBdyJBJAVcrpRtSa9.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 929590,
+      "original_language": "en",
+      "original_title": "Civil War",
+      "overview": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
+      "popularity": 679.17,
+      "poster_path": "/qDU7PMMVMxtFI5w95mXS3BjpODG.jpg",
+      "release_date": "2024-04-10",
+      "title": "Guerra Civil",
+      "video": false,
+      "vote_average": 7.523,
+      "vote_count": 326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qekky2LbtT1wtbD5MDgQvjfZQ24.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 984324,
+      "original_language": "fr",
+      "original_title": "Le salaire de la peur",
+      "overview": "Cuando la explosión de un pozo petrolero amenaza cientos de vidas, un equipo de expertos debe transportar nitroglicerina en una travesía mortal por el desierto.",
+      "popularity": 650.954,
+      "poster_path": "/li9PN0QuQRbilaX1XOBmmkst5DX.jpg",
+      "release_date": "2024-03-28",
+      "title": "El salario del miedo",
+      "video": false,
+      "vote_average": 5.796,
+      "vote_count": 181
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcnSWFCtk4b2aIzkhq6IDbzoIf1.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 942047,
+      "original_language": "en",
+      "original_title": "Outsource",
+      "overview": "Un jefe de policía contrata a un amigo, que es espía internacional, para que le ayude a buscar a un sospechoso buscado en Filipinas. Cuando el jefe muere, todas las pruebas apuntan hacia el espía, y éste debe defenderse.",
+      "popularity": 620.566,
+      "poster_path": "/fjnlNMmQxxtcfHbFfzbe2jDTnUa.jpg",
+      "release_date": "2022-01-18",
+      "title": "Medidas extremas",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9c0lHTXRqDBxeOToVzRu0GArSne.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 935271,
+      "original_language": "en",
+      "original_title": "After the Pandemic",
+      "overview": "Muestra un escenario en el que la tasa de mortalidad de un nuevo virus no es del 1%, sino de alrededor del 98%. Ellie deja su vecindario y tropieza con una nueva ciudad donde conoce a Quinn, alguien que ha adoptado un enfoque diferente del nuevo mundo.",
+      "popularity": 603.016,
+      "poster_path": "/cboUHkM1zA7m3SaCrf6dW5jGqqW.jpg",
+      "release_date": "2022-03-01",
+      "title": "Despues del fin del mundo",
+      "video": false,
+      "vote_average": 4.755,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 654739,
+      "original_language": "ko",
+      "original_title": "발신제한",
+      "overview": "Hard Hit es una película de suspenso surcoreana de 2021 dirigida por Kim Chang-ju y protagonizada por Jo Woo-jin, Lee Jae-in y Ji Chang-wook. La película describe las circunstancias impredecibles a las que se enfrentan los miembros de una familia normal después de que una misteriosa llamada telefónica los ponga en una situación horrible.",
+      "popularity": 562.371,
+      "poster_path": "/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg",
+      "release_date": "2021-06-23",
+      "title": "Amenaza explosiva",
+      "video": false,
+      "vote_average": 7.691,
+      "vote_count": 170
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lP0G6f00CjOKdRECyGrT0kaMSrL.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 383634,
+      "original_language": "ja",
+      "original_title": "肉体の門",
+      "overview": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
+      "popularity": 540.448,
+      "poster_path": "/raNbLci95MJ3L3dMnG7L7bD37lY.jpg",
+      "release_date": "1988-04-09",
+      "title": "肉体の門",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 43725,
+  "total_results": 874500
+}
