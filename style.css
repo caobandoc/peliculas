@@ -32,6 +32,21 @@
     }
 }
 
+#peliculas,
+#filtros {
+    display: none;
+}
+
+#filtros {
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+}
+
+#filtros p {
+    margin: 0;
+}
+
 #container-loader {
     display: flex;
     justify-content: center;

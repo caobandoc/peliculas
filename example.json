@@ -1,408 +1,1391 @@
-{
-  "page": 1,
-  "results": [
-    {
-      "adult": false,
-      "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12,
-        14
-      ],
-      "id": 823464,
-      "original_language": "en",
-      "original_title": "Godzilla x Kong: The New Empire",
-      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
-      "popularity": 2213.825,
-      "poster_path": "/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
-      "release_date": "2024-03-27",
-      "title": "Godzilla y Kong: El nuevo imperio",
-      "video": false,
-      "vote_average": 6.665,
-      "vote_count": 713
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 693134,
-      "original_language": "en",
-      "original_title": "Dune: Part Two",
-      "overview": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
-      "popularity": 2101.535,
-      "poster_path": "/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
-      "release_date": "2024-02-27",
-      "title": "Duna: Parte dos",
-      "video": false,
-      "vote_average": 8.3,
-      "vote_count": 3260
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
-      "genre_ids": [
-        16,
-        28,
-        10751,
-        35,
-        14
-      ],
-      "id": 1011985,
-      "original_language": "en",
-      "original_title": "Kung Fu Panda 4",
-      "overview": "Po se está preparando para convertirse en el líder espiritual de su Valle de la Paz, pero también necesita a alguien que ocupe su lugar como Guerrero Dragón. Como tal, entrenará a un nuevo practicante de kung fu para el lugar y se encontrará con un villano llamado Camaleón que evoca villanos del pasado.",
-      "popularity": 1811.637,
-      "poster_path": "/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
-      "release_date": "2024-03-02",
-      "title": "Kung Fu Panda 4",
-      "video": false,
-      "vote_average": 7.158,
-      "vote_count": 1221
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
-      "genre_ids": [
-        28,
-        27,
-        53
-      ],
-      "id": 1096197,
-      "original_language": "en",
-      "original_title": "No Way Up",
-      "overview": "Un grupo de vacacionistas se ve unido por el destino cuando el avión en el que viajan se desploma en el mar a causa de la explosión de una turbina al impactar en el aire contra una parvada. La tragedia se torna aún más aterradora cuando, el avion queda suspendido en un peligroso risco submarino. Con el oxígeno disminuyendo rápidamente, los sobrevivientes se ven atrapados en una carrera contrarreloj por la vida, enfrentándose a peligros mortales mientras luchan por mantenerse a flote dentro de una reducida burbuja de aire. La amenaza más aterradora aún está por llegar: hambrientos tiburones rodean el avión, convirtiendo la lucha por sobrevivir en una pesadilla en lo profundo del mar. Cada decisión que tomen determinará quién vive y quién muere.",
-      "popularity": 1712.647,
-      "poster_path": "/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
-      "release_date": "2024-01-18",
-      "title": "Atrapados En Lo Profundo",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 397
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1105407,
-      "original_language": "en",
-      "original_title": "Damaged",
-      "overview": "",
-      "popularity": 1127.177,
-      "poster_path": "/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
-      "release_date": "2024-04-12",
-      "title": "Damaged",
-      "video": false,
-      "vote_average": 5.589,
-      "vote_count": 28
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/unCdljyU2FuUBDUcdZezeI9yaaj.jpg",
-      "genre_ids": [
-        878,
-        9648,
-        53,
-        28
-      ],
-      "id": 720321,
-      "original_language": "en",
-      "original_title": "Breathe",
-      "overview": "Un hombre que sufre de insomnio se ve envuelto en una serie de misteriosos asesinatos mientras lucha por mantener su cordura y proteger a su hermana de un asesino en serie.",
-      "popularity": 886.367,
-      "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
-      "release_date": "2024-04-04",
-      "title": "Breathe",
-      "video": false,
-      "vote_average": 5.4,
-      "vote_count": 49
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qnVm19Vu2Sc14LoEj82pmqAYr3p.jpg",
-      "genre_ids": [
-        12,
-        28,
-        18
-      ],
-      "id": 845111,
-      "original_language": "fr",
-      "original_title": "Les trois mousquetaires : Milady",
-      "overview": "Constance Bonacieux es secuestrada enfrente de D'Artagnan. El joven espadachín une fuerzas con los expertos soldados Athos, Portos y Aramis para, en compañía de la enigmática Milady de Winter, salvar a Constance.",
-      "popularity": 878.62,
-      "poster_path": "/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg",
-      "release_date": "2023-12-13",
-      "title": "Los Tres Mosqueteros 2: Milady",
-      "video": false,
-      "vote_average": 6.598,
-      "vote_count": 310
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
-      "genre_ids": [
-        878,
-        28,
-        14,
-        12
-      ],
-      "id": 601796,
-      "original_language": "ko",
-      "original_title": "외계+인 1부",
-      "overview": "La puerta del tiempo se abre entre los espadachines que quieren apoderarse de la legendaria espada divina al final de la Dinastía Goryeo y los que persiguen a un alienígena prisionero encarcelado en un cuerpo humano en 2022.",
-      "popularity": 854.88,
-      "poster_path": "/dwh2pqqWobsOmnDFsJkiLRLBQ94.jpg",
-      "release_date": "2022-07-20",
-      "title": "Alienoid Parte 1",
-      "video": false,
-      "vote_average": 6.915,
-      "vote_count": 281
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 359410,
-      "original_language": "en",
-      "original_title": "Road House",
-      "overview": "El ex luchador de la UFC, Dalton, acepta un trabajo como guardia en un bar sobre la carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece.",
-      "popularity": 848.609,
-      "poster_path": "/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
-      "release_date": "2024-03-08",
-      "title": "El duro",
-      "video": false,
-      "vote_average": 7.05,
-      "vote_count": 1534
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        35,
-        10751
-      ],
-      "id": 940551,
-      "original_language": "en",
-      "original_title": "Migration",
-      "overview": "Después de que una familia de patos migratorios aterriza en su estanque con emocionantes historias de lugares remotos, la familia Mallard embarca en un viaje familiar, atravezando la ciudad de Nueva York, con destino a la tropical Jamaica.",
-      "popularity": 815.938,
-      "poster_path": "/diEeiB2DmZZadHISkg24RO2n0rT.jpg",
-      "release_date": "2023-12-06",
-      "title": "¡Patos!",
-      "video": false,
-      "vote_average": 7.546,
-      "vote_count": 1219
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/FUnAVgaTs5xZWXcVzPJNxd9qGA.jpg",
-      "genre_ids": [
-        878,
-        28,
-        18,
-        10770
-      ],
-      "id": 934632,
-      "original_language": "en",
-      "original_title": "Rebel Moon - Part Two: The Scargiver",
-      "overview": "Mientras los rebeldes se preparan para la batalla contra el Mundo Madre, se forjan vínculos inquebrantables, emergen héroes... y nacen leyendas.",
-      "popularity": 804.055,
-      "poster_path": "/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
-      "release_date": "2024-04-19",
-      "title": "Rebel Moon - Parte Dos: La Guerrera que Deja Marcas",
-      "video": false,
-      "vote_average": 6.241,
-      "vote_count": 342
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
-      "genre_ids": [
-        28,
-        14
-      ],
-      "id": 634492,
-      "original_language": "en",
-      "original_title": "Madame Web",
-      "overview": "Después de sobrevivir a un accidente, la paramédica Cassandra Webb comienza a desenvolver sus habilidades clarividentes. Obligada a enfrentar revelaciones sobre su pasado, forja una relación con tres mujeres jóvenes destinadas a futuros poderosos... si todas pueden sobrevivir a un presente mortal.",
-      "popularity": 706.004,
-      "poster_path": "/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
-      "release_date": "2024-02-14",
-      "title": "Madame Web",
-      "video": false,
-      "vote_average": 5.621,
-      "vote_count": 1124
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pIFGZRCWjdQwECoXcphCCe1tl0B.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53
-      ],
-      "id": 1041613,
-      "original_language": "en",
-      "original_title": "Immaculate",
-      "overview": "A Cecilia, una mujer de fe devota, se le ofrece un nuevo y satisfactorio puesto en un ilustre convento italiano. Su cálida bienvenida a la pintoresca campiña italiana pronto se ve interrumpida cuando Cecilia descubre que su nuevo hogar esconde algunos secretos oscuros y horripilantes.",
-      "popularity": 705.298,
-      "poster_path": "/dFxjlcejJxSusT82UZl6QfVOgBA.jpg",
-      "release_date": "2024-03-20",
-      "title": "Inmaculada",
-      "video": false,
-      "vote_average": 6.3,
-      "vote_count": 220
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        16
-      ],
-      "id": 1239146,
-      "original_language": "en",
-      "original_title": "Woody Woodpecker Goes to Camp",
-      "overview": "Tras ser echado del bosque, el Pájaro Loco encuentra un maravilloso hogar: el Campamento Woo Hoo. Pero la alegría se acaba cuando un inspector amenaza con clausurarlo...",
-      "popularity": 698.959,
-      "poster_path": "/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
-      "release_date": "2024-04-12",
-      "title": "El Pájaro Loco se va de campamento",
-      "video": false,
-      "vote_average": 7.014,
-      "vote_count": 70
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uv2twFGMk2qBdyJBJAVcrpRtSa9.jpg",
-      "genre_ids": [
-        10752,
-        28,
-        18
-      ],
-      "id": 929590,
-      "original_language": "en",
-      "original_title": "Civil War",
-      "overview": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
-      "popularity": 679.17,
-      "poster_path": "/qDU7PMMVMxtFI5w95mXS3BjpODG.jpg",
-      "release_date": "2024-04-10",
-      "title": "Guerra Civil",
-      "video": false,
-      "vote_average": 7.523,
-      "vote_count": 326
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qekky2LbtT1wtbD5MDgQvjfZQ24.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 984324,
-      "original_language": "fr",
-      "original_title": "Le salaire de la peur",
-      "overview": "Cuando la explosión de un pozo petrolero amenaza cientos de vidas, un equipo de expertos debe transportar nitroglicerina en una travesía mortal por el desierto.",
-      "popularity": 650.954,
-      "poster_path": "/li9PN0QuQRbilaX1XOBmmkst5DX.jpg",
-      "release_date": "2024-03-28",
-      "title": "El salario del miedo",
-      "video": false,
-      "vote_average": 5.796,
-      "vote_count": 181
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dcnSWFCtk4b2aIzkhq6IDbzoIf1.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 942047,
-      "original_language": "en",
-      "original_title": "Outsource",
-      "overview": "Un jefe de policía contrata a un amigo, que es espía internacional, para que le ayude a buscar a un sospechoso buscado en Filipinas. Cuando el jefe muere, todas las pruebas apuntan hacia el espía, y éste debe defenderse.",
-      "popularity": 620.566,
-      "poster_path": "/fjnlNMmQxxtcfHbFfzbe2jDTnUa.jpg",
-      "release_date": "2022-01-18",
-      "title": "Medidas extremas",
-      "video": false,
-      "vote_average": 3.5,
-      "vote_count": 2
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9c0lHTXRqDBxeOToVzRu0GArSne.jpg",
-      "genre_ids": [
-        878,
-        28
-      ],
-      "id": 935271,
-      "original_language": "en",
-      "original_title": "After the Pandemic",
-      "overview": "Muestra un escenario en el que la tasa de mortalidad de un nuevo virus no es del 1%, sino de alrededor del 98%. Ellie deja su vecindario y tropieza con una nueva ciudad donde conoce a Quinn, alguien que ha adoptado un enfoque diferente del nuevo mundo.",
-      "popularity": 603.016,
-      "poster_path": "/cboUHkM1zA7m3SaCrf6dW5jGqqW.jpg",
-      "release_date": "2022-03-01",
-      "title": "Despues del fin del mundo",
-      "video": false,
-      "vote_average": 4.755,
-      "vote_count": 55
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
-      "genre_ids": [
-        28,
-        80,
-        18,
-        53
-      ],
-      "id": 654739,
-      "original_language": "ko",
-      "original_title": "발신제한",
-      "overview": "Hard Hit es una película de suspenso surcoreana de 2021 dirigida por Kim Chang-ju y protagonizada por Jo Woo-jin, Lee Jae-in y Ji Chang-wook. La película describe las circunstancias impredecibles a las que se enfrentan los miembros de una familia normal después de que una misteriosa llamada telefónica los ponga en una situación horrible.",
-      "popularity": 562.371,
-      "poster_path": "/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg",
-      "release_date": "2021-06-23",
-      "title": "Amenaza explosiva",
-      "video": false,
-      "vote_average": 7.691,
-      "vote_count": 170
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lP0G6f00CjOKdRECyGrT0kaMSrL.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 383634,
-      "original_language": "ja",
-      "original_title": "肉体の門",
-      "overview": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
-      "popularity": 540.448,
-      "poster_path": "/raNbLci95MJ3L3dMnG7L7bD37lY.jpg",
-      "release_date": "1988-04-09",
-      "title": "肉体の門",
-      "video": false,
-      "vote_average": 4,
-      "vote_count": 2
-    }
-  ],
-  "total_pages": 43725,
-  "total_results": 874500
-}
+[
+  {
+    "adult": false,
+    "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "id": 1096197,
+    "original_language": "en",
+    "original_title": "No Way Up",
+    "overview": "Un grupo de vacacionistas se ve unido por el destino cuando el avión en el que viajan se desploma en el mar a causa de la explosión de una turbina al impactar en el aire contra una parvada. La tragedia se torna aún más aterradora cuando, el avion queda suspendido en un peligroso risco submarino. Con el oxígeno disminuyendo rápidamente, los sobrevivientes se ven atrapados en una carrera contrarreloj por la vida, enfrentándose a peligros mortales mientras luchan por mantenerse a flote dentro de una reducida burbuja de aire. La amenaza más aterradora aún está por llegar: hambrientos tiburones rodean el avión, convirtiendo la lucha por sobrevivir en una pesadilla en lo profundo del mar. Cada decisión que tomen determinará quién vive y quién muere.",
+    "popularity": 2011.445,
+    "poster_path": "/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+    "release_date": "2024-01-18",
+    "title": "Atrapados En Lo Profundo",
+    "video": false,
+    "vote_average": 6.504,
+    "vote_count": 490
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 823464,
+    "original_language": "en",
+    "original_title": "Godzilla x Kong: The New Empire",
+    "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+    "popularity": 1898.967,
+    "poster_path": "/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+    "release_date": "2024-03-27",
+    "title": "Godzilla y Kong: El nuevo imperio",
+    "video": false,
+    "vote_average": 6.642,
+    "vote_count": 807
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/FUnAVgaTs5xZWXcVzPJNxd9qGA.jpg",
+    "genre_ids": [
+      878,
+      28,
+      18,
+      12
+    ],
+    "id": 934632,
+    "original_language": "en",
+    "original_title": "Rebel Moon — Part Two: The Scargiver",
+    "overview": "Mientras los rebeldes se preparan para combatir las despiadadas fuerzas del Mundo Madre, se forjan lazos inquebrantables, emergen héroes... y nacen leyendas.",
+    "popularity": 1868.352,
+    "poster_path": "/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
+    "release_date": "2024-04-19",
+    "title": "Rebel Moon (Parte dos): La guerrera que deja marcas",
+    "video": false,
+    "vote_average": 6.137,
+    "vote_count": 562
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8uVKfOJUhmybNsVh089EqLHUYEG.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 693134,
+    "original_language": "en",
+    "original_title": "Dune: Part Two",
+    "overview": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
+    "popularity": 1617.39,
+    "poster_path": "/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
+    "release_date": "2024-02-27",
+    "title": "Duna: Parte dos",
+    "video": false,
+    "vote_average": 8.262,
+    "vote_count": 3469
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+    "genre_ids": [
+      16,
+      28,
+      10751,
+      35,
+      14
+    ],
+    "id": 1011985,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po se está preparando para convertirse en el líder espiritual de su Valle de la Paz, pero también necesita a alguien que ocupe su lugar como Guerrero Dragón. Como tal, entrenará a un nuevo practicante de kung fu para el lugar y se encontrará con un villano llamado Camaleón que evoca villanos del pasado.",
+    "popularity": 1578.882,
+    "poster_path": "/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+    "release_date": "2024-03-02",
+    "title": "Kung Fu Panda 4",
+    "video": false,
+    "vote_average": 7.161,
+    "vote_count": 1393
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jnE1GA7cGEfv5DJBoU2t4bZHaP4.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 1094844,
+    "original_language": "en",
+    "original_title": "Ape vs. Mecha Ape",
+    "overview": "Tras reconocer el poder del simio que tienen cautivo, el ejército diseña un robot, Mecha Ape. Cuando su primera prueba sale terriblemente mal, los militares deben liberar al simio encarcelado para detener la colosal máquina de guerra.",
+    "popularity": 1100.561,
+    "poster_path": "/ohlZkxCjQ8Ua3Up9TuH7gAVV9ZF.jpg",
+    "release_date": "2023-03-24",
+    "title": "La batalla de los super simios",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5Eip60UDiPLASyKjmHPMruggTc4.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1041613,
+    "original_language": "en",
+    "original_title": "Immaculate",
+    "overview": "A Cecilia, una mujer de fe devota, se le ofrece un nuevo y satisfactorio puesto en un ilustre convento italiano. Su cálida bienvenida a la pintoresca campiña italiana pronto se ve interrumpida cuando Cecilia descubre que su nuevo hogar esconde algunos secretos oscuros y horripilantes.",
+    "popularity": 1079.655,
+    "poster_path": "/dFxjlcejJxSusT82UZl6QfVOgBA.jpg",
+    "release_date": "2024-03-20",
+    "title": "Inmaculada",
+    "video": false,
+    "vote_average": 6.255,
+    "vote_count": 319
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ilK1JRbMjo4sMJtNKLOKnqRf1RH.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      36
+    ],
+    "id": 976906,
+    "original_language": "en",
+    "original_title": "Spitfire Over Berlin",
+    "overview": "Agosto de 1944. Con la 8ª Fuerza Aérea Americana preparada para atacar sobre la Alemania Nazi, la Inteligencia Británica se entera de que podrían estar volando hacia una trampa mortal. Con solo horas de sobra, el teniente de vuelo Edward Barnes debe volar en una misión de vida o muerte sobre Berlín en su desarmado Spitfire para obtener pruebas fotográficas y salvar la vida de 1200 hombres.",
+    "popularity": 1039.434,
+    "poster_path": "/syFEBhLY5rV9QlShUSphD134Rgx.jpg",
+    "release_date": "2022-05-13",
+    "title": "Spitfire Over Berlin",
+    "video": false,
+    "vote_average": 3.615,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qnVm19Vu2Sc14LoEj82pmqAYr3p.jpg",
+    "genre_ids": [
+      12,
+      28,
+      18
+    ],
+    "id": 845111,
+    "original_language": "fr",
+    "original_title": "Les trois mousquetaires : Milady",
+    "overview": "Constance Bonacieux es secuestrada enfrente de D'Artagnan. El joven espadachín une fuerzas con los expertos soldados Athos, Portos y Aramis para, en compañía de la enigmática Milady de Winter, salvar a Constance.",
+    "popularity": 1010.828,
+    "poster_path": "/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg",
+    "release_date": "2023-12-13",
+    "title": "Los Tres Mosqueteros 2: Milady",
+    "video": false,
+    "vote_average": 6.542,
+    "vote_count": 353
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vTlK3chwsEToSoQJYUcJaHlNhIf.jpg",
+    "genre_ids": [
+      18,
+      12
+    ],
+    "id": 618588,
+    "original_language": "en",
+    "original_title": "Arthur the King",
+    "overview": "Descubre la fascinante historia de Mikael Lindnord (Mark Wahlberg) un deportista de resistencia sueco que se ganó los corazones de millones de personas cuando él y su equipo adoptaron a Arthur, un perro callejero mal herido de gran corazón que les acompañó durante una épica carrera de resistencia en la selva ecuatoriana.",
+    "popularity": 936.539,
+    "poster_path": "/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
+    "release_date": "2024-03-15",
+    "title": "Arthur",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 72
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1105407,
+    "original_language": "en",
+    "original_title": "Damaged",
+    "overview": "Un ex soldado de las fuerzas especiales se ve obligado a luchar contra un grupo de terroristas cuando se encuentran en un edificio de oficinas en el que trabaja su esposa.",
+    "popularity": 931.866,
+    "poster_path": "/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+    "release_date": "2024-04-12",
+    "title": "Damaged",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
+    "genre_ids": [
+      878,
+      28,
+      14,
+      12
+    ],
+    "id": 601796,
+    "original_language": "ko",
+    "original_title": "외계+인 1부",
+    "overview": "La puerta del tiempo se abre entre los espadachines que quieren apoderarse de la legendaria espada divina al final de la Dinastía Goryeo y los que persiguen a un alienígena prisionero encarcelado en un cuerpo humano en 2022.",
+    "popularity": 813.214,
+    "poster_path": "/dwh2pqqWobsOmnDFsJkiLRLBQ94.jpg",
+    "release_date": "2022-07-20",
+    "title": "Alienoid Parte 1",
+    "video": false,
+    "vote_average": 6.799,
+    "vote_count": 298
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 634492,
+    "original_language": "en",
+    "original_title": "Madame Web",
+    "overview": "Después de sobrevivir a un accidente, la paramédica Cassandra Webb comienza a desenvolver sus habilidades clarividentes. Obligada a enfrentar revelaciones sobre su pasado, forja una relación con tres mujeres jóvenes destinadas a futuros poderosos... si todas pueden sobrevivir a un presente mortal.",
+    "popularity": 790.15,
+    "poster_path": "/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+    "release_date": "2024-02-14",
+    "title": "Madame Web",
+    "video": false,
+    "vote_average": 5.613,
+    "vote_count": 1168
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10752
+    ],
+    "id": 784651,
+    "original_language": "hi",
+    "original_title": "फाइटर",
+    "overview": "Los mejores aviadores de la IAF se reúnen ante un peligro inminente para formar Air Dragons. Aquí se despliegan la camaradería, la hermandad y las batallas, internas y externas.",
+    "popularity": 771.018,
+    "poster_path": "/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
+    "release_date": "2024-01-24",
+    "title": "Dragones del aire",
+    "video": false,
+    "vote_average": 5.25,
+    "vote_count": 46
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 359410,
+    "original_language": "en",
+    "original_title": "Road House",
+    "overview": "El ex luchador de la UFC, Dalton, acepta un trabajo como guardia en un bar sobre la carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece.",
+    "popularity": 755.63,
+    "poster_path": "/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
+    "release_date": "2024-03-08",
+    "title": "El duro",
+    "video": false,
+    "vote_average": 7.022,
+    "vote_count": 1622
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      35,
+      10751
+    ],
+    "id": 940551,
+    "original_language": "en",
+    "original_title": "Migration",
+    "overview": "Después de que una familia de patos migratorios aterriza en su estanque con emocionantes historias de lugares remotos, la familia Mallard embarca en un viaje familiar, atravezando la ciudad de Nueva York, con destino a la tropical Jamaica.",
+    "popularity": 745.126,
+    "poster_path": "/diEeiB2DmZZadHISkg24RO2n0rT.jpg",
+    "release_date": "2023-12-06",
+    "title": "¡Patos!",
+    "video": false,
+    "vote_average": 7.516,
+    "vote_count": 1252
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tBmJCH9llj1Q9jDOS7vGWnl7GVj.jpg",
+    "genre_ids": [
+      16,
+      878,
+      28
+    ],
+    "id": 1209288,
+    "original_language": "en",
+    "original_title": "Justice League: Crisis on Infinite Earths Part Two",
+    "overview": "El Antimonitor (la contrapartida malvada del Monitor) es liberado en el Multiverso DC y comienza a destruir las diferentes Tierras que lo componen. El Monitor intenta reclutar héroes de todo el Multiverso, pero es asesinado. Adaptación animada de La Liga de la Justicia: Crisis en Tierras Infinitas.",
+    "popularity": 743.153,
+    "poster_path": "/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg",
+    "release_date": "2024-04-22",
+    "title": "Liga de la Justicia: Crisis en Tierras Infinitas - Parte 2",
+    "video": false,
+    "vote_average": 6.366,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qekky2LbtT1wtbD5MDgQvjfZQ24.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 984324,
+    "original_language": "fr",
+    "original_title": "Le salaire de la peur",
+    "overview": "Cuando la explosión de un pozo petrolero amenaza cientos de vidas, un equipo de expertos debe transportar nitroglicerina en una travesía mortal por el desierto.",
+    "popularity": 656.64,
+    "poster_path": "/li9PN0QuQRbilaX1XOBmmkst5DX.jpg",
+    "release_date": "2024-03-28",
+    "title": "El salario del miedo",
+    "video": false,
+    "vote_average": 5.717,
+    "vote_count": 203
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uv2twFGMk2qBdyJBJAVcrpRtSa9.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18
+    ],
+    "id": 929590,
+    "original_language": "en",
+    "original_title": "Civil War",
+    "overview": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
+    "popularity": 632.457,
+    "poster_path": "/qDU7PMMVMxtFI5w95mXS3BjpODG.jpg",
+    "release_date": "2024-04-10",
+    "title": "Guerra Civil",
+    "video": false,
+    "vote_average": 7.418,
+    "vote_count": 492
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/unCdljyU2FuUBDUcdZezeI9yaaj.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      53
+    ],
+    "id": 720321,
+    "original_language": "en",
+    "original_title": "Breathe",
+    "overview": "El suministro de aire escasea en el futuro cercano, obligando a una madre e hija a luchar por sobrevivir cuando dos extraños llegan desesperados por un refugio oxigenado.",
+    "popularity": 598.62,
+    "poster_path": "/gPAW0a24TrkafrJQ1axEv0I3jov.jpg",
+    "release_date": "2024-04-04",
+    "title": "Breathe",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 938614,
+    "original_language": "en",
+    "original_title": "Late Night with the Devil",
+    "overview": "Un joven periodista se une a un equipo de investigación paranormal para descubrir la verdad detrás de una serie de asesinatos en un hospital psiquiátrico abandonado.",
+    "popularity": 598.016,
+    "poster_path": "/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg",
+    "release_date": "2024-03-19",
+    "title": "De Noche Con El Diablo",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 255
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 872585,
+    "original_language": "en",
+    "original_title": "Oppenheimer",
+    "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+    "popularity": 589.967,
+    "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+    "release_date": "2023-07-19",
+    "title": "Oppenheimer",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 7816
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 937287,
+    "original_language": "en",
+    "original_title": "Challengers",
+    "overview": "Casada con un campeón en mala racha, la estrategia de Tashi para la redención de su marido da un giro sorprendente cuando debe enfrentarse al fracasado Patrick, su ex mejor amigo y ex novio de Tashi. A medida que sus pasados y presentes chocan, y las tensiones aumentan, Tashi debe preguntarse cuánto costará ganar.",
+    "popularity": 574.924,
+    "poster_path": "/gxWIKQ5Qp10Dr3XxkgrqMC0FE83.jpg",
+    "release_date": "2024-04-18",
+    "title": "Desafiantes",
+    "video": false,
+    "vote_average": 7.44,
+    "vote_count": 201
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
+    "genre_ids": [
+      16,
+      878,
+      28
+    ],
+    "id": 1155089,
+    "original_language": "en",
+    "original_title": "Justice League: Crisis on Infinite Earths Part One",
+    "overview": "El Antimonitor (la contrapartida malvada del Monitor) es liberado en el Multiverso DC y comienza a destruir las diferentes Tierras que lo componen. El Monitor intenta reclutar héroes de todo el Multiverso, pero es asesinado. Adaptación animada de La Liga de la Justicia: Crisis en Tierras Infinitas.",
+    "popularity": 570.756,
+    "poster_path": "/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",
+    "release_date": "2024-01-08",
+    "title": "Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1",
+    "video": false,
+    "vote_average": 7.647,
+    "vote_count": 190
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 653346,
+    "original_language": "en",
+    "original_title": "Kingdom of the Planet of the Apes",
+    "overview": "La historia de cómo los simios se convirtieron en los gobernantes del planeta, y cómo los humanos se convirtieron en esclavos. La película se centrará en el personaje de César, el líder de los simios, y en cómo se convirtió en el líder de la rebelión contra los humanos.",
+    "popularity": 558.557,
+    "poster_path": "/r8L3fUvftNeqPMCITdXJfiXbFBU.jpg",
+    "release_date": "2024-05-08",
+    "title": "El planeta de los simios: Nuevo reino",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dcnSWFCtk4b2aIzkhq6IDbzoIf1.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 942047,
+    "original_language": "en",
+    "original_title": "Outsource",
+    "overview": "Un jefe de policía contrata a un amigo, que es espía internacional, para que le ayude a buscar a un sospechoso buscado en Filipinas. Cuando el jefe muere, todas las pruebas apuntan hacia el espía, y éste debe defenderse.",
+    "popularity": 558.256,
+    "poster_path": "/fjnlNMmQxxtcfHbFfzbe2jDTnUa.jpg",
+    "release_date": "2022-01-18",
+    "title": "Medidas extremas",
+    "video": false,
+    "vote_average": 2.3,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 438631,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.",
+    "popularity": 532.362,
+    "poster_path": "/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg",
+    "release_date": "2021-09-15",
+    "title": "Duna",
+    "video": false,
+    "vote_average": 7.791,
+    "vote_count": 11440
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 385687,
+    "original_language": "en",
+    "original_title": "Fast X",
+    "overview": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
+    "popularity": 519.832,
+    "poster_path": "/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
+    "release_date": "2023-05-17",
+    "title": "Rápidos y furiosos X",
+    "video": false,
+    "vote_average": 7.127,
+    "vote_count": 5093
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16
+    ],
+    "id": 1239146,
+    "original_language": "en",
+    "original_title": "Woody Woodpecker Goes to Camp",
+    "overview": "Tras ser echado del bosque, el Pájaro Loco encuentra un maravilloso hogar: el Campamento Woo Hoo. Pero la alegría se acaba cuando un inspector amenaza con clausurarlo...",
+    "popularity": 508.871,
+    "poster_path": "/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
+    "release_date": "2024-04-12",
+    "title": "El Pájaro Loco se va de campamento",
+    "video": false,
+    "vote_average": 6.884,
+    "vote_count": 99
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "id": 654739,
+    "original_language": "ko",
+    "original_title": "발신제한",
+    "overview": "Hard Hit es una película de suspenso surcoreana de 2021 dirigida por Kim Chang-ju y protagonizada por Jo Woo-jin, Lee Jae-in y Ji Chang-wook. La película describe las circunstancias impredecibles a las que se enfrentan los miembros de una familia normal después de que una misteriosa llamada telefónica los ponga en una situación horrible.",
+    "popularity": 500.059,
+    "poster_path": "/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg",
+    "release_date": "2021-06-23",
+    "title": "Amenaza explosiva",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 174
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9c0lHTXRqDBxeOToVzRu0GArSne.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "id": 935271,
+    "original_language": "en",
+    "original_title": "After the Pandemic",
+    "overview": "Muestra un escenario en el que la tasa de mortalidad de un nuevo virus no es del 1%, sino de alrededor del 98%. Ellie deja su vecindario y tropieza con una nueva ciudad donde conoce a Quinn, alguien que ha adoptado un enfoque diferente del nuevo mundo.",
+    "popularity": 468.95,
+    "poster_path": "/cboUHkM1zA7m3SaCrf6dW5jGqqW.jpg",
+    "release_date": "2022-03-01",
+    "title": "Despues del fin del mundo",
+    "video": false,
+    "vote_average": 4.798,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kvJZLS607m1xVtEE8w95gmQ6MHE.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1015303,
+    "original_language": "en",
+    "original_title": "Elevator Game",
+    "overview": "Horror sobrenatural, basado en el fenómeno en línea del mismo nombre, un ritual realizado en un ascensor, en el que los jugadores intentan viajar a otra dimensión utilizando un conjunto de reglas que se pueden encontrar en línea.",
+    "popularity": 456.908,
+    "poster_path": "/yT2SUMGuI4inUmBsiFjHqGp2axZ.jpg",
+    "release_date": "2023-07-12",
+    "title": "Elevator Game",
+    "video": false,
+    "vote_average": 4.663,
+    "vote_count": 52
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+    "genre_ids": [
+      14,
+      28,
+      12
+    ],
+    "id": 763215,
+    "original_language": "en",
+    "original_title": "Damsel",
+    "overview": "Una damisela se casa con un encantador príncipe, pero el matrimonio se convierte en una odisea por la supervivencia cuando la entregan como ofrenda a un feroz dragón.",
+    "popularity": 454.741,
+    "poster_path": "/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
+    "release_date": "2024-03-07",
+    "title": "Damsel",
+    "video": false,
+    "vote_average": 7.138,
+    "vote_count": 1703
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35
+    ],
+    "id": 293660,
+    "original_language": "en",
+    "original_title": "Deadpool",
+    "overview": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+    "popularity": 451.34,
+    "poster_path": "/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+    "release_date": "2016-02-09",
+    "title": "Deadpool",
+    "video": false,
+    "vote_average": 7.612,
+    "vote_count": 29800
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3RWsSQlqzRjsuqSRmoyggy74UA7.jpg",
+    "genre_ids": [
+      28,
+      14,
+      35
+    ],
+    "id": 43074,
+    "original_language": "en",
+    "original_title": "Ghostbusters",
+    "overview": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral.",
+    "popularity": 449.947,
+    "poster_path": "/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",
+    "release_date": "2016-07-14",
+    "title": "Cazafantasmas",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 6184
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 577922,
+    "original_language": "en",
+    "original_title": "Tenet",
+    "overview": "Una acción épica que gira en torno al espionaje internacional, los viajes en el tiempo y la evolución, en la que un agente secreto debe evitar la Tercera Guerra Mundial.",
+    "popularity": 439.434,
+    "poster_path": "/buSr2RIxzJ5Zh6dLaLBsqAdvz3I.jpg",
+    "release_date": "2020-08-22",
+    "title": "Tenet",
+    "video": false,
+    "vote_average": 7.183,
+    "vote_count": 9330
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "id": 760104,
+    "original_language": "en",
+    "original_title": "X",
+    "overview": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.",
+    "popularity": 429.703,
+    "poster_path": "/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg",
+    "release_date": "2022-03-17",
+    "title": "X",
+    "video": false,
+    "vote_average": 6.73,
+    "vote_count": 2735
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "id": 414906,
+    "original_language": "en",
+    "original_title": "The Batman",
+    "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+    "popularity": 428.959,
+    "poster_path": "/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "release_date": "2022-03-01",
+    "title": "Batman",
+    "video": false,
+    "vote_average": 7.685,
+    "vote_count": 9493
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "id": 475557,
+    "original_language": "en",
+    "original_title": "Joker",
+    "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en el popular personaje de DC Comics Joker, conocido como archivillano de Batman, pero que en este film tomará un cariz más realista y oscuro.",
+    "popularity": 428.407,
+    "poster_path": "/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+    "release_date": "2019-10-01",
+    "title": "Guasón",
+    "video": false,
+    "vote_average": 8.162,
+    "vote_count": 24493
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 299537,
+    "original_language": "en",
+    "original_title": "Captain Marvel",
+    "overview": "Capitana Marvel es, en sus orígenes, Carol Susan Jane Danvers, la hermana mayor de tres hermanos criados en una familia tradicional de Boston. Durante años tuvo que soportar el machismo de su padre hasta cumplir los 18, donde se alistó en la Fuerza Aérea de Estados Unidos, para convertirse en piloto.",
+    "popularity": 419.732,
+    "poster_path": "/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+    "release_date": "2019-03-06",
+    "title": "Capitana Marvel",
+    "video": false,
+    "vote_average": 6.825,
+    "vote_count": 15225
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 297762,
+    "original_language": "en",
+    "original_title": "Wonder Woman",
+    "overview": "Cuando un piloto se estrella y habla de un conflicto en el mundo exterior, Diana, una guerrera amazónica en entrenamiento, sale de su casa para luchar en una guerra, descubriendo sus plenos poderes y su verdadero destino.",
+    "popularity": 418.585,
+    "poster_path": "/js7cN75bbBnNeQScT0jTRfIkTAa.jpg",
+    "release_date": "2017-05-30",
+    "title": "Mujer Maravilla",
+    "video": false,
+    "vote_average": 7.229,
+    "vote_count": 19474
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 284053,
+    "original_language": "en",
+    "original_title": "Thor: Ragnarok",
+    "overview": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
+    "popularity": 410.73,
+    "poster_path": "/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+    "release_date": "2017-10-02",
+    "title": "Thor: Ragnarok",
+    "video": false,
+    "vote_average": 7.592,
+    "vote_count": 20155
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lA6KdSkCTxwzvqzPqxch997RabQ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 560016,
+    "original_language": "en",
+    "original_title": "Monkey Man",
+    "overview": "Kid, un joven anónimo que se gana la vida a duras penas en un club de lucha clandestino donde, noche tras noche, con una máscara de gorila, es golpeado hasta sangrar por luchadores más populares a cambio de dinero. Después de años de ira reprimida, Kid descubre una manera de infiltrarse en el enclave de la siniestra élite de la ciudad. A medida que el trauma de su infancia se desborda, sus manos misteriosamente llenas de cicatrices desataron una explosiva campaña de represalia para ajustar cuentas con los hombres que le quitaron todo.",
+    "popularity": 410.326,
+    "poster_path": "/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
+    "release_date": "2024-04-03",
+    "title": "Monkey Man: El Despertar de la Bestia",
+    "video": false,
+    "vote_average": 7.22,
+    "vote_count": 270
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10752
+    ],
+    "id": 969492,
+    "original_language": "en",
+    "original_title": "Land of Bad",
+    "overview": "Protagonizada por Russell Crowe y Liam Hemsworth, una operación encubierta de Fuerzas Especiales en el sur de Filipinas se convierte en una brutal batalla de supervivencia que se prolonga durante 48 horas. Cuando un equipo de élite de extracción es emboscado en territorio enemigo, el oficial novato Kinney (Hemsworth) se encuentra superado por fuerzas hostiles, pero decide no dejar a nadie atrás. Con un ataque aéreo acercándose, la única esperanza de Kinney depende de las instrucciones del piloto de drones de la Fuerza Aérea, Reaper (Crowe). Kinney sufrirá peligros desconocidos donde cada movimiento podría ser el último.",
+    "popularity": 407.572,
+    "poster_path": "/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "release_date": "2024-01-25",
+    "title": "Rescate Imposible",
+    "video": false,
+    "vote_average": 7.262,
+    "vote_count": 666
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6dpnthrofbqWmvapUyvqCrkdHG.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 218,
+    "original_language": "en",
+    "original_title": "The Terminator",
+    "overview": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+    "popularity": 407.11,
+    "poster_path": "/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg",
+    "release_date": "1984-10-26",
+    "title": "Terminator: El exterminador",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 12480
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+    "genre_ids": [
+      28,
+      18,
+      878
+    ],
+    "id": 263115,
+    "original_language": "en",
+    "original_title": "Logan",
+    "overview": "Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante… Tercera y última película protagonizada por Hugh Jackman en el papel de Lobezno.",
+    "popularity": 405.291,
+    "poster_path": "/d0ktjN9eKww26HhM8or8iUB1I68.jpg",
+    "release_date": "2017-02-28",
+    "title": "Logan: Wolverine",
+    "video": false,
+    "vote_average": 7.817,
+    "vote_count": 18636
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2C3CdVzINUm5Cm1lrbT2uiRstwX.jpg",
+    "genre_ids": [
+      28,
+      14,
+      10752
+    ],
+    "id": 856289,
+    "original_language": "zh",
+    "original_title": "封神第一部：朝歌风云",
+    "overview": "Una epopeya de fantasía oriental que recrea las prolongadas guerras míticas entre humanos, inmortales y monstruos que tuvieron lugar hace más de tres mil años.",
+    "popularity": 402.719,
+    "poster_path": "/p1p3KHxTeKYvZG3KTJYDYSVygJs.jpg",
+    "release_date": "2023-07-20",
+    "title": "封神第一部：朝歌风云",
+    "video": false,
+    "vote_average": 7.032,
+    "vote_count": 234
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 11,
+    "original_language": "en",
+    "original_title": "Star Wars",
+    "overview": "La Princesa Leia Organa ha sido capturada por Darth Vader por tener los planos de la Estrella de la muerte, la temida estación espacial del imperio. Dos androides escapan al planeta Tatooine, ambos son comprados por Luke Skywalker, un joven granjero, este se entera de un mensaje que ella, uno de ellos y busca a Obi Wan Kenobi, un antiguo caballero Jedi que lo lleva a conocer sobre la fuerza y como utilizarla. Contratan a Han Solo, un foragido espacial que tiene al Halcón Milenario, una gran nave capaz de recorrer a la velocidad de la luz con la intención de rescatar a la princesa y luego organizar una batalla para destruir a la Estrella de la muerte.",
+    "popularity": 402.701,
+    "poster_path": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+    "release_date": "1977-05-25",
+    "title": "La guerra de las galaxias",
+    "video": false,
+    "vote_average": 8.203,
+    "vote_count": 19931
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 603,
+    "original_language": "en",
+    "original_title": "The Matrix",
+    "overview": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+    "popularity": 399.995,
+    "poster_path": "/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg",
+    "release_date": "1999-03-31",
+    "title": "Matrix",
+    "video": false,
+    "vote_average": 8.214,
+    "vote_count": 24807
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 298618,
+    "original_language": "en",
+    "original_title": "The Flash",
+    "overview": "Cuando su intento de salvar a su familia altera el futuro sin darse cuenta, Barry Allen queda atrapado en una realidad en la que el general Zod ha regresado y no hay superhéroes a los que recurrir. En última instancia, para salvar el mundo en el que se encuentra y regresar al futuro que conoce, la única esperanza de Barry es escapar de él para salvar su vida. Pero, ¿será suficiente hacer el último sacrificio para reiniciar el universo?",
+    "popularity": 399.933,
+    "poster_path": "/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
+    "release_date": "2023-06-13",
+    "title": "Flash",
+    "video": false,
+    "vote_average": 6.744,
+    "vote_count": 3849
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18
+    ],
+    "id": 405774,
+    "original_language": "en",
+    "original_title": "Bird Box",
+    "overview": "Thriller posapocalíptico en el que una mujer y sus dos hijos, estos con los ojos vendados, navegan río abajo tras una sangrienta invasión alienígena de la Tierra intentando evitar a las criaturas extraterrestres. Cuando algo misterioso diezma la población mundial, solo se sabe una cosa: si lo ves, te suicidas. Malorie (Sandra Bullock) deberá huir junto a sus dos hijos por un caudaloso y traicionero río, rumbo al único sitio que parece ofrecer refugio. Pero para sobrevivir, deberán completar el peligroso viaje de dos días con los ojos vendados.",
+    "popularity": 396.847,
+    "poster_path": "/mJXlEnJwIz3vOq51G3SrJlcr1yr.jpg",
+    "release_date": "2018-12-13",
+    "title": "Bird Box: A Ciegas",
+    "video": false,
+    "vote_average": 6.844,
+    "vote_count": 9557
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 609681,
+    "original_language": "en",
+    "original_title": "The Marvels",
+    "overview": "Cuando sus deberes llevan a Carol Danvers, alias Capitana Marvel, a un agujero de gusano anómalo vinculado a un revolucionario Kree, sus poderes se enredan con los de Ms. Marvel y con los de Monica Rambeau, la distanciada sobrina de Carol y astronauta de S.A.B.E.R. Juntas, deberán trabajar en sincronía para salvar al universo como \"The Marvels\".",
+    "popularity": 396.819,
+    "poster_path": "/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
+    "release_date": "2023-11-08",
+    "title": "The Marvels",
+    "video": false,
+    "vote_average": 6.171,
+    "vote_count": 2239
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+    "genre_ids": [
+      35,
+      12
+    ],
+    "id": 346698,
+    "original_language": "en",
+    "original_title": "Barbie",
+    "overview": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
+    "popularity": 394.093,
+    "poster_path": "/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+    "release_date": "2023-07-19",
+    "title": "Barbie",
+    "video": false,
+    "vote_average": 7.071,
+    "vote_count": 8126
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "id": 157336,
+    "original_language": "en",
+    "original_title": "Interstellar",
+    "overview": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "popularity": 391.085,
+    "poster_path": "/nrSaXF39nDfAAeLKksRCyvSzI2a.jpg",
+    "release_date": "2014-11-05",
+    "title": "Interestelar",
+    "video": false,
+    "vote_average": 8.433,
+    "vote_count": 34208
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 10138,
+    "original_language": "en",
+    "original_title": "Iron Man 2",
+    "overview": "El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa información caiga en en manos de irresponsables. Con Pepper Potts (Gwyneth Paltrow) y James “Rhodey” Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.",
+    "popularity": 388.039,
+    "poster_path": "/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+    "release_date": "2010-04-28",
+    "title": "Iron Man 2",
+    "video": false,
+    "vote_average": 6.839,
+    "vote_count": 20391
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 284054,
+    "original_language": "en",
+    "original_title": "Black Panther",
+    "overview": "T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuerza e inteligencia, agilidad, estrategia o maestro del combate sin armas. Es bajo el liderazgo de T’Challa como Wakanda consigue convertirse en una de las naciones más ricas y tecnológicamente avanzadas del planeta.",
+    "popularity": 377.735,
+    "poster_path": "/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+    "release_date": "2018-02-13",
+    "title": "Pantera Negra",
+    "video": false,
+    "vote_average": 7.385,
+    "vote_count": 21616
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "id": 787699,
+    "original_language": "en",
+    "original_title": "Wonka",
+    "overview": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+    "popularity": 377.429,
+    "poster_path": "/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg",
+    "release_date": "2023-12-06",
+    "title": "Wonka",
+    "video": false,
+    "vote_average": 7.189,
+    "vote_count": 2897
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "id": 1111873,
+    "original_language": "en",
+    "original_title": "Abigail",
+    "overview": "Después de que un grupo de delincuentes secuestra a la hija bailarina de ballet de 12 años de un poderoso personaje del bajo mundo, todo lo que tienen que hacer para cobrar un rescate de 50 millones de dólares es vigilar a la niña durante la noche. En una mansión aislada, los captores comienzan a disminuir, uno por uno, y descubren, para su creciente horror, que están encerrados adentro con una niña que no es para nada normal.",
+    "popularity": 372.884,
+    "poster_path": "/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg",
+    "release_date": "2024-04-18",
+    "title": "Abigail",
+    "video": false,
+    "vote_average": 6.875,
+    "vote_count": 80
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "id": 866398,
+    "original_language": "en",
+    "original_title": "The Beekeeper",
+    "overview": "La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como \"Los apicultores\".",
+    "popularity": 371.625,
+    "poster_path": "/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+    "release_date": "2024-01-08",
+    "title": "Beekeeper: Sentencia de muerte",
+    "video": false,
+    "vote_average": 7.449,
+    "vote_count": 2191
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cgo3OmF84touDrrLkQ1DQ3MRFyO.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1700,
+    "original_language": "en",
+    "original_title": "Misery",
+    "overview": "El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el \"fanático número uno\" de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.",
+    "popularity": 366.377,
+    "poster_path": "/gAELWNF6ViSF5OG1fibPvUbtnZn.jpg",
+    "release_date": "1990-11-30",
+    "title": "Miseria",
+    "video": false,
+    "vote_average": 7.755,
+    "vote_count": 4415
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12,
+      53
+    ],
+    "id": 16320,
+    "original_language": "en",
+    "original_title": "Serenity",
+    "overview": "Siglo XXVI. Tras ganar la guerra Civil Galáctica, las dos grandes potencias mundiales, EE.UU. y China, se unen para formar un gobierno totalitario llamado Alianza Universal. El Capitán Malcolm Reynolds es un curtido veterano de la guerra que se gana la vida alquilando su nave, la Serenity y buscando trabajos al margen de la ley. Su única familia es una pequeña y leal tripulación de disidentes y rebeldes. Cuando Malcom embarca a dos nuevos pasajeros, un médico y su inestable hermana, que está dotada de poderes telepáticos, enseguida descubre que ambos son fugitivos de la Alianza y que ésta no se detendrá hasta dar con la chica. Y, en efecto, la tripulación de la Serenity se verá atrapada entre el poderoso ejército de la Alianza y los Ravers, salvajes bárbaros que vagan por los confines del espacio. Así las cosas, empiezan a darse cuenta de que quizá el mayor peligro se encuentra a bordo de la Serenity.",
+    "popularity": 365.723,
+    "poster_path": "/zD81lzAEsTeEDl8f1C6t4USRihg.jpg",
+    "release_date": "2005-09-25",
+    "title": "Serenity",
+    "video": false,
+    "vote_average": 7.378,
+    "vote_count": 3335
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 348,
+    "original_language": "en",
+    "original_title": "Alien",
+    "overview": "Después de que una nave espacial de comercio reciba una transmisión desconocida, aterrizan en la luna de origen para investigar pero un miembro de la tripulación es atacado por una forma de vida misteriosa. Pronto descubren que su ciclo de vida apenas comienza.",
+    "popularity": 365.403,
+    "poster_path": "/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
+    "release_date": "1979-05-25",
+    "title": "Alien: El Octavo Pasajero",
+    "video": false,
+    "vote_average": 8.152,
+    "vote_count": 13876
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14
+    ],
+    "id": 508947,
+    "original_language": "en",
+    "original_title": "Turning Red",
+    "overview": "Mei Lee es una niña china-canadiense de trece años que se debate entre ser la hija obediente de su madre y el caos de la adolescencia. Y, por si los cambios en sus intereses, relaciones y cuerpo no fueran suficientes, cada vez que se emociona o estresa demasiado, se convierte en un panda rojo gigante.",
+    "popularity": 360.568,
+    "poster_path": "/tYRd7O5Eht4jypJQrMWnCi26880.jpg",
+    "release_date": "2022-03-10",
+    "title": "Red",
+    "video": false,
+    "vote_average": 7.391,
+    "vote_count": 4916
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wUp0bUXaveR40ikBhDgWwNTijuD.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "id": 1181548,
+    "original_language": "en",
+    "original_title": "Heart of the Hunter",
+    "overview": "Un asesino retirado debe volver a la acción cuando su amigo descubre una peligrosa conspiración en el corazón del Gobierno sudafricano.",
+    "popularity": 359.017,
+    "poster_path": "/wtqyNRawswvOfDmDI6n5bCS13pk.jpg",
+    "release_date": "2024-03-28",
+    "title": "El corazón del cazador",
+    "video": false,
+    "vote_average": 5.899,
+    "vote_count": 79
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 320288,
+    "original_language": "en",
+    "original_title": "Dark Phoenix",
+    "overview": "Jean Grey comienza a desarrollar increíbles poderes que la corrompen y la convierten en un Fénix Oscuro, haciendo que los X-Men decidan si su vida vale más que toda la humanidad.",
+    "popularity": 355.226,
+    "poster_path": "/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
+    "release_date": "2019-06-05",
+    "title": "X-Men: Dark Phoenix",
+    "video": false,
+    "vote_average": 5.977,
+    "vote_count": 6219
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+    "genre_ids": [
+      878,
+      10749,
+      35
+    ],
+    "id": 792307,
+    "original_language": "en",
+    "original_title": "Poor Things",
+    "overview": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+    "popularity": 354.486,
+    "poster_path": "/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
+    "release_date": "2023-12-07",
+    "title": "Pobres Criaturas",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 3222
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 206647,
+    "original_language": "en",
+    "original_title": "Spectre",
+    "overview": "Un mensaje críptico del pasado de James Bond lo envía a descubrir la existencia de una organización siniestra llamada SPECTRE. Con el amanecer de una nueva amenaza, Bond aprende la terrible verdad sobre el autor de todo su dolor en sus más recientes misiones.",
+    "popularity": 349.594,
+    "poster_path": "/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg",
+    "release_date": "2015-10-26",
+    "title": "007: Spectre",
+    "video": false,
+    "vote_average": 6.541,
+    "vote_count": 10202
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      12
+    ],
+    "id": 62,
+    "original_language": "en",
+    "original_title": "2001: A Space Odyssey",
+    "overview": "La historia de la humanidad, en diversos estadios del pasado y del futuro, es narrada en la película de ciencia-ficción de culto por excelencia de la historia del cine. Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
+    "popularity": 347.998,
+    "poster_path": "/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+    "release_date": "1968-04-02",
+    "title": "2001: Odisea del espacio",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 11055
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e3gVl1gnxEFKLTF6pn6KRqUPi9K.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1127166,
+    "original_language": "it",
+    "original_title": "Fabbricante di lacrime",
+    "overview": "Nica y Rigel se dan cuenta de que unos poderosos e intensos sentimientos los unen tras ser adoptados de un orfanato, donde tuvieron una difícil infancia.",
+    "popularity": 345.683,
+    "poster_path": "/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
+    "release_date": "2024-04-03",
+    "title": "Fabricante de lágrimas",
+    "video": false,
+    "vote_average": 6.479,
+    "vote_count": 479
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "genre_ids": [
+      28,
+      35,
+      12
+    ],
+    "id": 383498,
+    "original_language": "en",
+    "original_title": "Deadpool 2",
+    "overview": "El mercenario mutante malhablado Wade Wilson (alias Deadpool), reúne a un equipo de mutantes para proteger a un joven con habilidades sobrenaturales del brutal ciborg Cable, que viaja en el tiempo.",
+    "popularity": 341.851,
+    "poster_path": "/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
+    "release_date": "2018-05-10",
+    "title": "Deadpool 2",
+    "video": false,
+    "vote_average": 7.488,
+    "vote_count": 17009
+  }
+]
