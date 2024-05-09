@@ -1,9 +1,7 @@
 function listarPeliculas(orden, busqueda) {
     fetch("./example.json")
         .then((response) => response.json())
-        .then((response) =>
-            cargarPeliculasEnHTML(response, orden, busqueda)
-        )
+        .then((response) => cargarPeliculasEnHTML(response, orden, busqueda))
         .catch((err) => console.error(err));
 }
 
@@ -52,6 +50,7 @@ function cargarPeliculasEnHTML(lista, orden, busqueda) {
             <img src="https://image.tmdb.org/t/p/w500${pelicula.poster_path}" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text">${pelicula.overview}</p>
+                <button id="btn_info" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#infoModal" onclick="abrirModal(${pelicula.id})">Ver más</button>
             </div>
             <div class="card-footer text-body-secondary">
                 Fecha de estreno: ${pelicula.release_date}
@@ -59,6 +58,39 @@ function cargarPeliculasEnHTML(lista, orden, busqueda) {
         </div>`;
         contenedor.appendChild(div);
     });
+}
+
+function abrirModal(id) {
+    fetch(`./example.json`)
+        .then((response) => response.json())
+        .then((response) =>
+            cargarModal(response.find((pelicula) => pelicula.id === id))
+        )
+        .catch((err) => console.error(err));
+}
+
+function cargarModal(pelicula) {
+    document.getElementById("infoModalLabel").textContent = pelicula.title;
+    document.getElementById("modalBody").innerHTML = `
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Fecha de estreno: ${
+            pelicula.release_date
+        }</li>
+        <li class="list-group-item">Popularidad: ${pelicula.popularity}</li>
+        <li class="list-group-item">Promedio de votos: ${
+            pelicula.vote_average
+        }</li>
+        <li class="list-group-item">Cantidad de votos: ${
+            pelicula.vote_count
+        }</li>
+        <li class="list-group-item">Publico: ${
+            pelicula.adult ? "Adultos" : "Todo público"
+        }</li>
+        <li class="list-group-item">Descripción: <p>${
+            pelicula.overview
+        }</p></li>
+    </ul>
+    `;
 }
 
 function limpiarPeliculas() {
